@@ -13,3 +13,6 @@
 
 
 Если делать сборку в build.js лучше удалить "react-hmre" из .babelrc.
+
+Демо:
+![demo](demo/demo.gif)
