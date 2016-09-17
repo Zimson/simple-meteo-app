@@ -12,4 +12,4 @@
 ``` 
 
 
-Если делать сборку в build.js лушче удалить "react-hmre" из .babelrc.
+Если делать сборку в build.js лучше удалить "react-hmre" из .babelrc.
